@@ -10,8 +10,7 @@ int main(void){
     buscarLibros(buscador, &tamanio);
     eliminarLibro(buscador, &tamanio);
     mostrarLibros(&tamanio);
-   fdjaskdjf  
     
-
+    //Hola 
     return 0;
 }
